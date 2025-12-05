@@ -3,14 +3,16 @@
 </p>
 
 <p align="center">
-  Hi! I'm a 2ⁿᵈ-year CSE student passionate about<br>
+  Hi! I'm a 2ⁿᵈ-year CSE student passionate about
   software engineering, web development, and solving interesting problems
 </p>
 
-<p align="center">
-  Right now I'm building <b>Cassette Stack '83</b> — a nostalgic web app<br>
+<h3>Projects</h3>
+
+<!-- <p align="center"> -->
+  Right now I'm building <b>Cassette Stack '83</b>, a nostalgic web app<br>
   that lets you travel back to 1983 and create mixtapes for the people you love
-</p>
+<!-- </p> -->
 
 <p align="center">
   Always looking for new challenges and excited to contribute to open-source ♡
