@@ -4,14 +4,13 @@
 
 <p align="center">
   Hi! I'm a 2ⁿᵈ-year CSE student passionate about
-  software engineering, web development, and solving interesting problems
+  software engineering and web development, and I have a love/hate relationship with LeetCode
 </p>
 
 <h3>Projects I'm working on</h3>
 
 
-  <b>Cassette Stack '83</b>, a nostalgic web app
-  that lets you travel back to 1983 and create mixtapes for the people you love
+  <b>Cassette Stack '83</b>, a website that makes you feel like it's 1983 and lets you create mixtapes for the people you love
 
   <b>ClubHub</b>, a university club & event discovery site that recommends stuff based off your interests (group course project)
 
