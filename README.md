@@ -19,7 +19,7 @@
 
 ![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
 
-- [![freeCodeCamp stars](https://img.shields.io/github/stars/freeCodeCamp/freeCodeCamp?label=freeCodeCamp&logo=freecodecamp&logoColor=fff&color=0A0A23&style=plastic)](https://github.com/freeCodeCamp/freeCodeCamp) : A nonprofit providing free, self-paced coding education. [My PRs!](https://github.com/freeCodeCamp/freeCodeCamp/pulls?q=is%3Apr+author%3Azho00+is%3Aclosed+is%3Amerged)
+- [![freeCodeCamp stars](https://img.shields.io/github/stars/freeCodeCamp/freeCodeCamp?label=freeCodeCamp&logo=freecodecamp&logoColor=fff&color=0A0A23&style=plastic)](https://github.com/freeCodeCamp/freeCodeCamp) : A nonprofit providing free coding education. [My PRs!](https://github.com/freeCodeCamp/freeCodeCamp/pulls?q=is%3Apr+author%3Azho00+is%3Aclosed+is%3Amerged)
 
 
 <p align="center">
