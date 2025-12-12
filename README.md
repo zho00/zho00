@@ -3,8 +3,7 @@
 </p>
 
 <p align="center">
-  Hi! I'm a 2ⁿᵈ-year CSE student passionate about
-  software engineering and web development, and I have a love/hate relationship with LeetCode
+  Hi! I'm a 2ⁿᵈ-year CSE student passionate about software engineering and web development
 </p>
 
 <h3>Projects I'm working on</h3>
@@ -19,7 +18,6 @@
 ![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
 
 - [![freeCodeCamp stars](https://img.shields.io/github/stars/freeCodeCamp/freeCodeCamp?label=freeCodeCamp&logo=freecodecamp&logoColor=fff&color=0A0A23&style=plastic)](https://github.com/freeCodeCamp/freeCodeCamp) : A nonprofit providing free coding education. [My PRs!](https://github.com/freeCodeCamp/freeCodeCamp/pulls?q=is%3Apr+author%3Azho00+is%3Aclosed+is%3Amerged)
-
 
 <p align="center">
   Always looking for new challenges and excited to contribute to more open-source ♡
