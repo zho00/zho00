@@ -11,7 +11,7 @@
 
   <b>Cassette Stack '83</b>, a website that makes you feel like it's 1983 and lets you create mixtapes for the people you love
 
-  <b>ClubHub</b>, a university club & event discovery site that recommends stuff based off your interests (group course project)
+  My <b>Programming Club website</b>. As founder and president of the AUB Mediterraneo programming club, I'm collaborating with my club members to create a website to display our work!
 
 <h3>Open-source Contributions</h3>
 
